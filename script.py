@@ -28,3 +28,6 @@ else:
 n_number = int(input('Enter count number: '))
 
 print(' Silence is golden ' * n_number)
+
+
+# this is comment
